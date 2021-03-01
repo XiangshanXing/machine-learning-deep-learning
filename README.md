@@ -1,2 +1,2 @@
-# machine-learning
+# image segmentation and object tracking
 
