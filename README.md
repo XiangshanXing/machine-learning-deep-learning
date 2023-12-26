@@ -5,12 +5,16 @@ for study and explore further application/主要对当前深度算法同步归�
 
 方向
 追踪识别（YOLOV5\V8和faster RCNN系列(mmdet,detectron2)等）
+
 机器翻译RNN，tranformer等
+
 分割Unet等
+
 交互式网络SAM等
 
 
 推荐
+
 动手学深度学习：李沐（https://www.bilibili.com/video/BV18h411r7Z7/?spm_id_from=333.999.0.0&vd_source=84771d2107b1399b41545fa9a3f5d2ea）（大神无私，有着家国情怀：达则兼济天下）
 
 https://paperswithcode.com/ （和gihub开发必备，常常追踪最新动向）
