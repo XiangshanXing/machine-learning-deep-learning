@@ -9,7 +9,7 @@ for study and explore further application/主要对当前深度算法同步归�
 
 2. 机器翻译RNN，tranformer等
 
-3. 分割Unet等
+3. 分割Unet等(Unet resUnet DenseUnet，attentionUnet,实践过程中发现DenseUnet的效果比较好，loss设定也是默认的)
 
 4. 交互式网络SAM等
 
