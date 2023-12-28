@@ -9,7 +9,7 @@ for study and explore further application/主要对当前深度算法同步归�
 
 2. 机器翻译RNN，tranformer等
 
-3. 分割Unet等(主要针对医疗图像Unet resUnet DenseUnet，attentionUnet,实践过程中发现DenseUnet的效果比较好，loss设定是TverskyLoss比较好一点，但是整体效果都差不多，不会有太多实质上的提升，由于层数限制其泛化能力)
+3. 分割Unet等(主要针对医疗图像Unet resUnet DenseUnet，attentionUnet,实践过程中发现DenseUnet的效果比较好，loss设定是TverskyLoss比较好一点，但是整体效果都差不多，不会有太多实质上的提升，由于层数限制其泛化能力，个人见解：如果简单场景可以，对于复杂场景落地有点难，这个网络只要数据没问题，随便训练都问题不大，这一点很厉害)
 
 4. 交互式网络SAM等
 
